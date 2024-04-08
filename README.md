@@ -6,10 +6,9 @@ This project has 2 parts: WeatherPy and VacationPy.
 
 In this part python script is created to visualize the weather over 500 cities with varying distance from equador. Here I used citipy Python library and OpenWeatherMap API.
 
-   1. By using OpenWeatherMap API I retrieve weather data from cities list generated in starter code. The goal is to create plots to showcase the relationship between   
-      weather variables (temperature, humidity, cloudiness, wind speed) and latitude. Outputs of those findings can be found in output_data.
+   1. By using OpenWeatherMap API I retrieve weather data from cities list generated in starter code. The goal is to create plots to showcase the relationship between weather variables (temperature, humidity, cloudiness, wind speed) and latitude. Outputs of those findings can be found in output_data.
       
-   2. Goal is to computee the linear regression for each relationship listed in first requirement for Northern Hemisphere and Southern Hemisphere. Also detailed analysis                      was done after each pair of plots, explaining what linear regression is modeling. it can be found in Jupyter Notebook and all outputs are saved in output_data.
+   2. Goal is to computee the linear regression for each relationship listed in first requirement for Northern Hemisphere and Southern Hemisphere. Also detailed analysis                      was done after each pair of plots, explaining what linear regression is modeling. Analysus can be found in Jupyter Notebook and all outputs are saved in output_data.
 
 
 ## Part2: VacationPy
