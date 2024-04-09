@@ -16,10 +16,11 @@ In this part python script is created to visualize the weather over 500 cities w
 In this part of project goal it to plan future vacation by using weather data skills. Here I used geoViews Python library and Geoapify API. Following map visualisations are created:
 
 
-  1. Map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city.
+  1. Map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city. This Map can
+     be found in output_data.
 
-  2. Map that displays ideal weather conditions {(max.tem <27 & >21), wind speed <4.5, cloudiness zero} and for each city(that displays those ideal weather conditions) by using 
-     Geoapify API located hotel in radius of 10,000m.
+  2. Map that displays ideal weather conditions {(max.tem <27 & >21), wind speed <4.5, cloudiness zero} and for each city(that displays those ideal 
+     weather conditions) by using Geoapify API located hotel in radius of 10,000m. This Map can be found in output_data.
      
 
 
